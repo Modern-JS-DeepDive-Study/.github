@@ -1,12 +1,58 @@
-## Hi there 👋
+# 🧧 모던자바스크립트 Deep Dive 스터디
 
-<!--
+<img src="https://velog.velcdn.com/images/alswlfl29/post/02adb3dd-0d1a-481b-8250-9a19f7fae6af/image.jpeg" width="50%" alt="책 표지" />
 
-**Here are some ideas to get you started:**
+## 🐥 스터디 멤버
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+|   ![](https://github.com/yhc-key.png?size=100)    | ![](https://github.com/namjunkim12.png?size=100)  | ![](https://github.com/Lainlnya.png?size=100) | ![](https://github.com/geekseal.png?size=100) |  ![](https://github.com/sangbooom.png?size=100)  |
+|:------------------------------------------------:|:--------------------------------------------:|:---------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|
+|         [조용환](https://github.com/yhc-key)         |       [김남준](https://github.com/namjunkim12)       |      [김예림](https://github.com/Lainlnya)       |      [류기현](https://github.com/geekseal)       |       [노세희](https://github.com/sangbooom)        |
+|                각자의 다짐을 입력해주세요                |           기술 면접이 발목잡는 일이 없도록              |     각자의 다짐을 입력해주세요        |             각자의 다짐을 입력해주세요               |                  각자의 다짐을 입력해주세요                  |
+
+## ⌚ 스터디 시간
+
+일시 : 매주 일요일 22:00 ~ 23:00
+
+장소 : 게더타운
+
+## 스터디 공통 목표
+
+정해봐요
+
+## 스터디 전 준비 사항
+
+- 책 읽기
+- 각자 레포 안에 {이름}.md 파일 안에 공유할 내용 정리
+  - 공부한 내용 정리
+  - 질문(면접 질문 느낌)
+  - 토론 주제 적어오기
+  - 인상 깊은 점
+  - 새로 알게된 개념
+
+## 📚 스터디 진행방식(예시)
+
+- 룰렛 돌려서 걸린 사람이 진행
+- 진행자가 스터디 기록하기
+- 진행자가 먼저 공유할 내용(질문) 발표
+- 각자 적어온 질문 공유, 답변해보기
+- 공부해 온 주제에 대해 자유롭게 토론, 인사이트 공유
+- 정적이 흐르면 진행자가 토론 유도
+  
+## 스터디 규칙(예시) 
+
+- 불참시 벌금 1만원
+- 일주일 전에 이야기하면 벌금 X (예정된 일정 등에 사용)
+- 진행자로 선정되었는데 준비를 안해왔으면 옐로카드 1장
+- 지각은 10분까지 인정. 이후에 들어오면 옐로카드 1장
+- 옐로카드 2장 = 벌금 1만원
+
+## 🗓 스터디 일정
+
+| 회차 | 일시                | 목차                | 참여자               | 발표자           | 비고                       |
+| ---- |-------------------|-------------------|-------------------|---------------|--------------------------|
+| 0    | 01월 17일 (수) 13:00   | 스터디룰 정하기          | All       |               ||
+| 0    | 01월 24일 (수) 18:00 이후  | 브라우저의 렌더링 방식, DOM          | All       |       남준, 용환        ||
+
+
+
+
