@@ -33,6 +33,10 @@
 
 - 일급 객체란 무엇인가요?
 
+- 자바스크립트에서 클로저의 원리를 스코프 체인의 관점에서 설명해주세요.
+
+- 생성자 함수와 클래스의 가장 큰 차이는 무엇이라고 생각하시나요?
+
 ## 🐥 스터디 멤버
 
 |   ![](https://github.com/yhc-key.png?size=100)    | ![](https://github.com/namjunkim12.png?size=100)  | ![](https://github.com/Lainlnya.png?size=100) | ![](https://github.com/geekseal.png?size=100) |  ![](https://github.com/se2develop.png?size=100)  |
