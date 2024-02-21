@@ -38,7 +38,7 @@
 |   ![](https://github.com/yhc-key.png?size=100)    | ![](https://github.com/namjunkim12.png?size=100)  | ![](https://github.com/Lainlnya.png?size=100) | ![](https://github.com/geekseal.png?size=100) |  ![](https://github.com/se2develop.png?size=100)  |
 |:------------------------------------------------:|:--------------------------------------------:|:---------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|
 |         [조용환](https://github.com/yhc-key)         |       [김남준](https://github.com/namjunkim12)       |      [김예림](https://github.com/Lainlnya)       |      [류기현](https://github.com/geekseal)       |       [노세희](https://github.com/se2develop)        |
-|                책 완전 정복을 향하여                |           기술 면접이 발목잡는 일이 없도록              |     각자의 다짐을 입력해주세요        |             각자의 다짐을 입력해주세요               |                  각자의 다짐을 입력해주세요                  |
+|                책 완전 정복을 향하여                |           기술 면접이 발목잡는 일이 없도록              |     각자의 다짐을 입력해주세요        |             각자의 다짐을 입력해주세요               |                  기술 면접 완벽 준비 GABOJAGO!                  |
 
 ## ⌚ 스터디 시간
 
